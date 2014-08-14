@@ -9,8 +9,10 @@ autor:
 Francisco Maria Calisto
 
 
-data: (Inicio da elaboração deste Relatório)
+data:
 ====================================================================================================
+
+(Inicio da elaboração deste Relatório)
 
 14/08/2014
 
@@ -29,8 +31,10 @@ Orçamento:
 (N. A.)
 
 
-Estimativa de Horas: (ALTERAR SEMPRE QUE NECESSÁRIO)
+Estimativa de Horas:
 ====================================================================================================
+
+(ALTERAR SEMPRE QUE NECESSÁRIO)
 
 2h
 
