@@ -1,19 +1,25 @@
 Relatório do Projecto Funny Sugar
 
 autor:
+
 Francisco Maria Calisto
 
 data: (Inicio da elaboração deste Relatório)
+
 14/08/2014
 
 intervenientes:
+
 Maria João Galamba
+
 João Figueiredo
 
 Orçamento:
+
 (N. A.)
 
 Estimativa de Horas: (ALTERAR SEMPRE QUE NECESSÁRIO)
+
 2h
 
 
