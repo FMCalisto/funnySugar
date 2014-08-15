@@ -38,6 +38,10 @@ Estimativa de Horas:
 
 2h
 
+Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
+e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
+isso tem que se somar todas as horas que estão abaixo no resto do relatório.
+
 
 
 
@@ -207,15 +211,68 @@ para melhor me basear.
 Neste dia finalmente foram elaborados e implementados, com algum progresso, tanto partes do Layout
 como também algumas alterações a nível de código, como por exemplo indentar como gosto.
 
-Foi criado o Logotipo que logo foi aprovado por João Figueiredo pelo chat do Facebook criado para o efeito, transmissão e comunicação de informação entre os envolventes do Projecto.
+Foi criado o Logotipo que logo foi aprovado por João Figueiredo pelo chat do Facebook criado para o
+efeito, transmissão e comunicação de informação entre os envolventes do Projecto.
 
 Conversa denominada por:
 
 [Funny Sugar | Website]
 
-Foi alterado o Slide Principal com as primeiras imagens provenientes da Página do Facebook da Funny Sugar. Nas imagens do slide estão o Bolo da "Mala de Viagens", o Bolo dos "Enchidos" e o bolo do concurso televisivo da Rosa Fogo.
+Foi alterado o Slide Principal com as primeiras imagens provenientes da Página do Facebook da
+Funny Sugar. Nas imagens do slide estão o Bolo da "Mala de Viagens", o Bolo dos "Enchidos" e o
+bolo do concurso televisivo da Rosa Fogo.
 
 Estimativa de Horas:
 2h
 
-Foram despendidas duas horas para estes desenvolvimentos e até à data serão as únicas horas contabilizadas para a elaboração do projecto.
+Foram despendidas duas horas para estes desenvolvimentos e até à data serão as únicas horas
+contabilizadas para a elaboração do projecto.
+
+
+14/08/2014
+====================================================================================================
+
+Foram visualizados alguns vídeos sobre a tecnologia Drupal com o objectivo de obter conhecimento
+para fins de aplicação de uma plataforma CMS, num total de aproximadamente 1h de visualizações.
+
+Source dos Vídeos:
+
+https://www.youtube.com/watch?v=1N5NuGqFtms&index=10&list=PLSTwZNTQNGC51vuOXLnSsfEnVqLaomnId
+
+https://www.youtube.com/watch?v=-cUWFLBZU5I
+
+
+15/08/2014
+====================================================================================================
+
+Continuação da visualização de vídeos.
+
+Neste dia, após a visualização de conteudos, conclui que não é viavel a implementação de um CMS
+tipo Drupal, WordPress, etc... Mas sim uma implementação própria de um CMS, no entanto esta ultima
+opção terá que ser avaliada correctamente, pois tanto uma plataforma Drupal como uma plataforma
+criada por mim serão sempre complexas e pouco intuitivas de utilizar para o cliente. Em suma,
+a melhor opção que vejo e que concluo no dia de hoje será mesmo ser o programador a gerir e colocar
+conteudo na página e não o cliente.
+
+A não ser que se tenha escolhido um tema do CMS escolhido é complicado senão inviavel fazer tal
+produto pois torna-se muito complexo programar tal coisa.
+
+Source dos Vídeos:
+
+https://www.youtube.com/watch?v=r6rllB4-xoE
+
+https://www.youtube.com/watch?v=eJIN0nQhtEY
+
+https://www.youtube.com/watch?v=bQpK_WLlaCU
+
+https://www.youtube.com/watch?v=gQUsZk-lJbs
+
+Aproximadamente 20min no total dos videos anteriores.
+
+Visualizei também todos os vídeos da seguinte serie, onde explicam como criar um CMS em protuguês:
+
+https://www.youtube.com/watch?v=KnOIg0LtKz0&list=PLF86DDEFD9C08AB18&index=1
+
+Estes ultimos vídeos correspondem a um total de 1h de visualização
+
+No total do deste dia foram então dispendidas 1h e 20min.
