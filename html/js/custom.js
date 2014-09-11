@@ -56,7 +56,7 @@ jQuery(document).ready(function($) {
         animation: {height:'show'},   // slide-down effect without fade-in 
         delay:     800 ,              // 1.2 second delay on mouseout 
         autoArrows:  false,
-        speed: 100
+        speed: 1000
     });
     
     
