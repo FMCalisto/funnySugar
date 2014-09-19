@@ -19,17 +19,17 @@
 /* aditional */
 /* Fonts ----------------------------------------------------*//* Here you go ie */
 @font-face {
-  font-family: 'mensch';
+  font-family: 'Lato';
   font-style: normal;
   font-weight: normal;
-  src: url('../fonts/mensch-webfont.eot');
+  src: url('../fonts/'Lato'-webfont.eot');
 }
 /* For real web browsers */
 @font-face {
-  font-family: 'mensch';
+  font-family: 'Lato';
   font-style: normal;
   font-weight: normal;
-  src: url('../fonts/mensch-webfont.ttf');
+  src: url('../fonts/'Lato'-webfont.ttf');
 }
 /* GENERAL ------------------------------------------------------------*/
 .cf:after,
@@ -73,7 +73,7 @@ body p {
 #main h4,
 #main h5,
 #main h6 {
-  font-family: mensch;
+  font-family: 'Lato';
   line-height: 1.3em;
 }
 h1 {
@@ -95,7 +95,7 @@ h6 {
   font-size: 14px;
 }
 #main .headline {
-  font-family: mensch;
+  font-family: 'Lato';
   line-height: 1.3em;
   font-size: 48px;
   color: #4d4d4d;
@@ -142,7 +142,7 @@ nav {
   float: left;
   position: relative;
   left: 50%;
-  font-family: mensch;
+  font-family: 'Lato';
   word-spacing: -0.1em;
   font-size: 24px;
   margin-right: 0px;
@@ -330,7 +330,7 @@ nav {
   -webkit-border-radius: 40px 40px 40px 40px;
   border-radius: 40px 40px 40px 40px;
   box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.1);
-  font-family: mensch;
+  font-family: 'Lato';
   font-size: 24px;
   line-height: 1.0em;
   text-align: center;
@@ -398,7 +398,7 @@ nav {
   margin-left: 20px;
   font-size: 48px;
   line-height: 1.2em;
-  font-family: mensch;
+  font-family: 'Lato';
   margin-bottom: 20px;
   text-shadow: 0px 1px 0 #ffffff;
 }
@@ -490,7 +490,7 @@ nav {
 }
 #posts-list article .entry-right-data .post-heading {
   display: block;
-  font-family: mensch;
+  font-family: 'Lato';
   color: #444444;
   font-size: 36px;
   line-height: 1.3em;
@@ -517,7 +517,7 @@ nav {
   -webkit-border-radius: 40px 40px 40px 40px;
   border-radius: 40px 40px 40px 40px;
   box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.1);
-  font-family: mensch;
+  font-family: 'Lato';
   font-size: 24px;
   line-height: 1.0em;
   text-align: center;
@@ -681,7 +681,7 @@ nav {
 .widget-cols h4,
 .widget-cols h5,
 .widget-cols h6 {
-  font-family: mensch;
+  font-family: 'Lato';
   color: #ece9d6;
   margin-bottom: 20px;
   font-weight: normal;
