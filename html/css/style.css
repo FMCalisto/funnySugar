@@ -396,7 +396,10 @@ nav {
   margin-bottom: 25px;
   background: #000;
 }
+
+
 /* PROJECT ------------------------------------------------------------*/
+
 #project-title {
   margin-left: 20px;
   font-size: 48px;
@@ -434,7 +437,10 @@ nav {
 #project-info #project-sheet strong {
   font-weight: bold;
 }
+
+
 /* RELATED PROJECTS ------------------------------------------------------------*/
+
 .related-projects {
   margin-bottom: 80px;
   margin-top: 40px;

@@ -178,7 +178,7 @@ pre {
 }
 .link-button {
   display: inline-block;
-  background-color: #e37655;
+  background-color: #F1A9A0;
   border: 1px solid #ffa887;
   border-bottom: 1px solid #cf6241;
   -moz-border-radius: 3px 3px 3px 3px;
@@ -193,7 +193,7 @@ pre {
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
 }
 .link-button:hover {
-  background-color: #f98c6b;
+  background-color: #E08283;
 }
 .link-button.red {
   background: #e65151;
