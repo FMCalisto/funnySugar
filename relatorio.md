@@ -276,3 +276,8 @@ https://www.youtube.com/watch?v=KnOIg0LtKz0&list=PLF86DDEFD9C08AB18&index=1
 Estes ultimos vídeos correspondem a um total de 1h de visualização
 
 No total do deste dia foram então dispendidas 1h e 20min.
+
+
+11/12/2014
+====================================================================================================
+Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros programadores interessados em contribuir para o projecto FUNNY Sugar.
