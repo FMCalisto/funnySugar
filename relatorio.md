@@ -1,5 +1,4 @@
-Relatório do Projecto Funny Sugar
-====================================================================================================
+# Relatório do Projecto Funny Sugar
 
 
 ##### autor:
@@ -21,14 +20,12 @@ Francisco Maria Calisto
  - João Figueiredo
 
 
-Orçamento:
-====================================================================================================
+#### Orçamento:
 
 (N. A.)
 
 
-Estimativa de Horas:
-====================================================================================================
+#### Estimativa de Horas:
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
@@ -41,8 +38,7 @@ isso tem que se somar todas as horas que estão abaixo no resto do relatório.
 
 
 
-Introdução
-====================================================================================================
+## Introdução
 
 Este relatório serve para objectivamente relatar o numero de horas estimadas para a elaboração
 deste projecto, assim como pormenores do mesmo, assim como justificar toda a estrutura do site.
@@ -65,8 +61,7 @@ Notar que este relatório não serve para documentação oficial do site e para 
 a documentação própria para o mesmo.
 
 
-Ideias
-====================================================================================================
+### Ideias
 
 A ideia inicial passou por encontrar vários Layouts e dependendo do gosto de quem encomenda aplicar
 o que melhor se enquadra para o seu publico alvo neste caso consumidores de Bolos.
@@ -77,8 +72,7 @@ No mesmo serão inseridos as imagens tiradas que se encontram neste momento (28/
 consoante a selecção do cliente.
 
 
-30/07/2014
-====================================================================================================
+## 30/07/2014
 
 Não será contabilizado o tempo para a elaboração da seguinte tarefa, no entanto serve como relato
 com o intuito de melhorar futuros Desenvolvimentos de Projectos com as mesmas características.
@@ -194,6 +188,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
     Bjnhs
     
     
+
 Mais tarde foi discutido com a cliente que escolheu o Layout que queria.
 
 A mesma também foi informada de toda a envolvente sobre o projecto e foi discutido cores e
@@ -201,8 +196,7 @@ aspectos Técnicos dobre o projecto em si, assim como a cliente mostrou-me um pr
 para melhor me basear.
 
 
-05/08/2014
-====================================================================================================
+## 05/08/2014
 
 Neste dia finalmente foram elaborados e implementados, com algum progresso, tanto partes do Layout
 como também algumas alterações a nível de código, como por exemplo indentar como gosto.
@@ -225,8 +219,7 @@ Foram despendidas duas horas para estes desenvolvimentos e até à data serão a
 contabilizadas para a elaboração do projecto.
 
 
-14/08/2014
-====================================================================================================
+## 14/08/2014
 
 Foram visualizados alguns vídeos sobre a tecnologia Drupal com o objectivo de obter conhecimento
 para fins de aplicação de uma plataforma CMS, num total de aproximadamente 1h de visualizações.
@@ -238,8 +231,7 @@ https://www.youtube.com/watch?v=1N5NuGqFtms&index=10&list=PLSTwZNTQNGC51vuOXLnSs
 https://www.youtube.com/watch?v=-cUWFLBZU5I
 
 
-15/08/2014
-====================================================================================================
+## 15/08/2014
 
 Continuação da visualização de vídeos.
 
@@ -274,6 +266,6 @@ Estes ultimos vídeos correspondem a um total de 1h de visualização
 No total do deste dia foram então dispendidas 1h e 20min.
 
 
-11/12/2014
-====================================================================================================
+## 11/12/2014
+
 Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros programadores interessados em contribuir para o projecto FUNNY Sugar.
