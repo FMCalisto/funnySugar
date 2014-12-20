@@ -273,7 +273,7 @@ Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros
 
 ### 20/12/2014
 
-Foi elaborado o relatório sobre a Reunião do dia 17/12/2014 e foram verificados alguns contornos e ideias.
+Foi elaborado o relatório sobre a Reunião do dia 17/12/2014 e foram verificados alguns contornos e ideias. Também foi alterado o Retro Logo com um "S" maior e alterado o ano.
 
 
 ## Reuniões
