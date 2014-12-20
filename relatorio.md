@@ -38,7 +38,7 @@ isso tem que se somar todas as horas que estão abaixo no resto do relatório.
 
 
 
-## Introdução
+### Introdução
 
 Este relatório serve para objectivamente relatar o numero de horas estimadas para a elaboração
 deste projecto, assim como pormenores do mesmo, assim como justificar toda a estrutura do site.
@@ -61,7 +61,7 @@ Notar que este relatório não serve para documentação oficial do site e para 
 a documentação própria para o mesmo.
 
 
-### Ideias
+#### Ideias
 
 A ideia inicial passou por encontrar vários Layouts e dependendo do gosto de quem encomenda aplicar
 o que melhor se enquadra para o seu publico alvo neste caso consumidores de Bolos.
@@ -72,7 +72,7 @@ No mesmo serão inseridos as imagens tiradas que se encontram neste momento (28/
 consoante a selecção do cliente.
 
 
-## 30/07/2014
+### 30/07/2014
 
 Não será contabilizado o tempo para a elaboração da seguinte tarefa, no entanto serve como relato
 com o intuito de melhorar futuros Desenvolvimentos de Projectos com as mesmas características.
@@ -196,7 +196,7 @@ aspectos Técnicos dobre o projecto em si, assim como a cliente mostrou-me um pr
 para melhor me basear.
 
 
-## 05/08/2014
+### 05/08/2014
 
 Neste dia finalmente foram elaborados e implementados, com algum progresso, tanto partes do Layout
 como também algumas alterações a nível de código, como por exemplo indentar como gosto.
@@ -219,7 +219,7 @@ Foram despendidas duas horas para estes desenvolvimentos e até à data serão a
 contabilizadas para a elaboração do projecto.
 
 
-## 14/08/2014
+### 14/08/2014
 
 Foram visualizados alguns vídeos sobre a tecnologia Drupal com o objectivo de obter conhecimento
 para fins de aplicação de uma plataforma CMS, num total de aproximadamente 1h de visualizações.
@@ -231,7 +231,7 @@ https://www.youtube.com/watch?v=1N5NuGqFtms&index=10&list=PLSTwZNTQNGC51vuOXLnSs
 https://www.youtube.com/watch?v=-cUWFLBZU5I
 
 
-## 15/08/2014
+### 15/08/2014
 
 Continuação da visualização de vídeos.
 
@@ -266,6 +266,60 @@ Estes ultimos vídeos correspondem a um total de 1h de visualização
 No total do deste dia foram então dispendidas 1h e 20min.
 
 
-## 11/12/2014
+### 11/12/2014
 
 Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros programadores interessados em contribuir para o projecto FUNNY Sugar.
+
+
+### 20/12/2014
+
+Foi elaborado o relatório sobre a Reunião do dia 17/12/2014 e foram verificados alguns contornos e ideias.
+
+
+## Reuniões
+
+### 17/12/2014
+
+Encontrei-me com Maria João Galamba e João Figueiredo no Atelier deste ultimo com o objectivo de discutir todo o trabalho elaborado até ao momento e melhorias a fazer.
+
+#### Alterações Necessárias
+
+- Alterar os três elementos debaixo dos projectos para:
+```
+ingredientes | encomendas
+```
+
+- Colocar a morada:
+```
+Travessa do Paraiso
+20
+1100-399 Lisboa
+```
+
+- Na secção "Informação", alterar as "Categorias" para:
+  1. Bolos;
+  2. Bolachas;
+  3. Cupcakes;
+  4. Bombons;
+
+- Na seccção "Bolos" adicionar a opção "Empresas";
+
+- Retirar as duas fotografias e deixar apenas uma;
+
+- Manter os projectos "Relacionados" sempre entre as mesmas categorias;
+
+- Alterar o nome da secção "Portefolio" para "A Designer";
+
+- Eliminar a ideia de publicidade (pelo menos para já);
+
+- Apagar "Porquê escolher Funny Sugar";
+
+- Apagar a secção "Sobre";
+
+- Alterar o efeito do Slide de Imagens da página inicial;
+
+- Alterar o ano do Logotipo de 2014 para 2012;
+
+#### Ideias a Implementar
+
+- Colocar Album completo para as fotografias do site;
