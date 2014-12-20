@@ -2,19 +2,19 @@ Relatório do Projecto Funny Sugar
 ====================================================================================================
 
 
-;;;;; autor:
+##### autor:
 
 Francisco Maria Calisto
 
 
-;;;;; data:
+##### data:
 
 (Inicio da elaboração deste Relatório)
 
 14/08/2014
 
 
-;;;;; intervenientes:
+##### intervenientes:
 
  - Maria João Galamba
 
