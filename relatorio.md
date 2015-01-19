@@ -276,6 +276,15 @@ Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros
 Foi elaborado o relatório sobre a Reunião do dia 17/12/2014 e foram verificados alguns contornos e ideias. Também foi alterado o Retro Logo com um "S" maior e alterado o ano.
 
 
+### 19/01/2015
+
+###### Objectivos e Ideias
+
+Comecei a pensar na forma como irei implementar o ponto 1.5) da Reunião do dia 17/12/2014, alterando assim as duas fotografias para uma e uma só fotografia e criando uma galeria dinamica de imagens controlada pelo o utilizador.
+
+Foram adicionadas novas notas ao Trello.
+
+
 ## Reuniões
 
 ### 17/12/2014
@@ -284,42 +293,42 @@ Encontrei-me com Maria João Galamba e João Figueiredo no Atelier deste ultimo 
 
 #### Alterações Necessárias
 
-- Alterar os três elementos debaixo dos projectos para:
+1.1) Alterar os três elementos debaixo dos projectos para:
 ```
 ingredientes | encomendas
 ```
 
-- Colocar a morada:
+1.2) Colocar a morada:
 ```
 Travessa do Paraiso
 20
 1100-399 Lisboa
 ```
 
-- Na secção "Informação", alterar as "Categorias" para:
+1.3) Na secção "Informação", alterar as "Categorias" para:
   1. Bolos;
   2. Bolachas;
   3. Cupcakes;
   4. Bombons;
 
-- Na seccção "Bolos" adicionar a opção "Empresas";
+1.4) Na seccção "Bolos" adicionar a opção "Empresas";
 
-- Retirar as duas fotografias e deixar apenas uma;
+1.5) Retirar as duas fotografias e deixar apenas uma;
 
-- Manter os projectos "Relacionados" sempre entre as mesmas categorias;
+1.6) Manter os projectos "Relacionados" sempre entre as mesmas categorias;
 
-- Alterar o nome da secção "Portefolio" para "A Designer";
+1.7) Alterar o nome da secção "Portefolio" para "A Designer";
 
-- Eliminar a ideia de publicidade (pelo menos para já);
+1.8) Eliminar a ideia de publicidade (pelo menos para já);
 
-- Apagar "Porquê escolher Funny Sugar";
+1.9) Apagar "Porquê escolher Funny Sugar";
 
-- Apagar a secção "Sobre";
+1.10) Apagar a secção "Sobre";
 
-- Alterar o efeito do Slide de Imagens da página inicial;
+1.11) Alterar o efeito do Slide de Imagens da página inicial;
 
-- Alterar o ano do Logotipo de 2014 para 2012;
+1.12) Alterar o ano do Logotipo de 2014 para 2012;
 
 #### Ideias a Implementar
 
-- Colocar Album completo para as fotografias do site;
+2.1) Colocar Album completo para as fotografias do site;
