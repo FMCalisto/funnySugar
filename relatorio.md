@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-16h
+17h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -283,6 +283,15 @@ Foi elaborado o relatório sobre a Reunião do dia 17/12/2014 e foram verificado
 Comecei a pensar na forma como irei implementar o ponto 1.5) da Reunião do dia 17/12/2014, alterando assim as duas fotografias para uma e uma só fotografia e criando uma galeria dinamica de imagens controlada pelo o utilizador.
 
 Foram adicionadas novas notas ao Trello.
+
+Arranjar maneira de por as fotografias upload a partir do Facebook.
+
+
+### 20/01/2015
+
+Parar a implementação do suplo Upload entre o Facebook e o Website.
+
+Implementar os objectivos minimos da ultima Reunião.
 
 
 ## Reuniões
