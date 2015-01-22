@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-18h
+19h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -308,9 +308,17 @@ Verificar as ideias e as informações adquiridas no Trello.
 
 ##### E-Mail
 
+```
 suporte@funnysugar.com
+```
+
+```
 geral@funnysugar.com
+```
+
+```
 info@funnysugar.com
+```
 
 
 
