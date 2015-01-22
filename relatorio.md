@@ -294,6 +294,27 @@ Parar a implementação do suplo Upload entre o Facebook e o Website.
 Implementar os objectivos minimos da ultima Reunião.
 
 
+### 22/01/2015
+
+Estive a ver algumas ideias do dia de ontem e a eleborar o respectivo relatório.
+
+Comecei a pensar nos E-Mails necessários estando limitado à oferta do Hoster.
+
+Estive também a ver oferteas de Web Hosting por pesquisa.
+
+#### Web Hosting
+
+Verificar as ideias e as informações adquiridas no Trello.
+
+##### E-Mail
+
+suporte@funnysugar.com
+geral@funnysugar.com
+info@funnysugar.com
+
+
+
+
 ## Reuniões
 
 ### 17/12/2014
@@ -341,3 +362,12 @@ Travessa do Paraiso
 #### Ideias a Implementar
 
 2.1) Colocar Album completo para as fotografias do site;
+
+
+### 21/01/2015
+
+Agendei com Maria João Galamba um jantar para aferir a informação que será necessária para publicar no site assim como alterações e adaptações que não foram discutidas na ultima Reunião do dia 17/12/2013.
+
+Foi entregue pela Maria João Galamba uma folha com textos e informação.
+
+Levantaram-se a dúvidas principais e estas seram enviadas via E-Mail em conformidade.
