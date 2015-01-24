@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-19h
+20h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -319,6 +319,11 @@ geral@funnysugar.com
 ```
 info@funnysugar.com
 ```
+
+
+### 24/01/2015
+
+Compreender a melhor forma de integrar o Layout construido para uma plataforma CMS já disponivel no mercado (Wordpress, Joomla, etc...).
 
 
 
