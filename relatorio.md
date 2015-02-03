@@ -326,6 +326,11 @@ info@funnysugar.com
 Compreender a melhor forma de integrar o Layout construido para uma plataforma CMS já disponivel no mercado (Wordpress, Joomla, etc...).
 
 
+### 03/02/2015
+
+Inicio da primeira fase de desenvolvimento da Versão 1 Publica do Site.
+
+
 
 
 ## Reuniões
