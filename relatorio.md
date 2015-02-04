@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-25h
+30h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -331,6 +331,11 @@ Compreender a melhor forma de integrar o Layout construido para uma plataforma C
 Inicio da primeira fase de desenvolvimento da Versão 1 Publica do Site.
 
 Neste dia foi finalizado o Index e o Layout finais do Site. A restante estrutura será posteriormente trabalhada.
+
+
+### 03/02/2015
+
+Rever a secção dos videos.
 
 
 
