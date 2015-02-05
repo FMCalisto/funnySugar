@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-35h
+36h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -349,6 +349,11 @@ Teve que ser refeito tanto o index.html como o ficheiro designer.html visto ambo
 ##### Ideias:
 
 Ver a questão de transformar a páina do ficheiro encomendas.html em várias secções.
+
+
+### 05/02/2015
+
+Foram criados os E-Mails
 
 
 
