@@ -41,13 +41,13 @@ px      68    160    252    344    436    528    620    712    */
     margin-right: 0px;
     font-size: 16px;
   }
-  /* TABLET SLIDER ----------------------------------------------------*/.theme-halftone .nivoSlider {
+  /* TABLET SLIDER ----------------------------------------------------*/.theme-funnysugar .nivoSlider {
     margin-left: -10px;
     width: 100%;
     margin-left: 0px;
   }
-  .theme-halftone .slider-right,
-  .theme-halftone .slider-left {
+  .theme-funnysugar .slider-right,
+  .theme-funnysugar .slider-left {
     display: none;
   }
   #main .headline {
@@ -81,13 +81,13 @@ px      68    160    252    344    436    528    620    712    */
     margin: 0 auto 40px auto;
   }
   /* TABLET PROJECT ------------------------------------------------------------*/
-  #project-title {
+  #bolos-title {
     font-size: 48px;
   }
-  #project-gallery {
+  #bolos-gallery {
     width: 362px;
   }
-  #project-info {
+  #bolos-info {
     width: 290px;
   }
   /* TABLET RELATED PROJECTS ------------------------------------------------------------*/
@@ -154,35 +154,35 @@ px      68    160    252    */
   #logo img {
     width: 100%;
   }
-  /* SLIDER ----------------------------------------------------*/.theme-halftone {
+  /* SLIDER ----------------------------------------------------*/.theme-funnysugar {
     margin-bottom: 20px;
   }
-  .theme-halftone .nivoSlider {
+  .theme-funnysugar .nivoSlider {
     margin-left: -10px;
     width: 100%;
     margin-left: 0px;
   }
-  .theme-halftone .slider-right,
-  .theme-halftone .slider-left {
+  .theme-funnysugar .slider-right,
+  .theme-funnysugar .slider-left {
     display: none;
   }
-  .theme-halftone .nivo-controlNav {
+  .theme-funnysugar .nivo-controlNav {
     display: none;
   }
-  .theme-halftone .nivo-directionNav {
+  .theme-funnysugar .nivo-directionNav {
     display: block !important;
     /* ALWAYS show the arrows */
   
   }
-  .theme-halftone .nivo-directionNav a {
+  .theme-funnysugar .nivo-directionNav a {
     width: 16px;
     height: 16px;
     background: #e37655 url(../img/arrows-mobile.png) no-repeat;
   }
-  .theme-halftone .nivo-directionNav .nivo-prevNav {
+  .theme-funnysugar .nivo-directionNav .nivo-prevNav {
     left: 0px;
   }
-  .theme-halftone .nivo-directionNav .nivo-nextNav {
+  .theme-funnysugar .nivo-directionNav .nivo-nextNav {
     right: 0px;
     background-position: 0px -16px;
   }
@@ -283,13 +283,13 @@ px      68    160    252    */
     height: 38px;
   }
   /* MOBILE PROJECT ------------------------------------------------------------*/
-  #project-title {
+  #bolos-title {
     font-size: 24px;
   }
-  #project-gallery {
+  #bolos-gallery {
     width: 212px;
   }
-  #project-info {
+  #bolos-info {
     width: 212px;
   }
   /* MOBILE RELATED PROJECTS ------------------------------------------------------------*/
@@ -438,13 +438,13 @@ px      68    160    252    344    436    */
     color: #e37655;
   }
   /* WIDE MOBILE PROJECT ------------------------------------------------------------*/
-  #project-title {
+  #bolos-title {
     font-size: 24px;
   }
-  #project-gallery {
+  #bolos-gallery {
     width: 396px;
   }
-  #project-info {
+  #bolos-info {
     width: 396px;
   }
   /* WIDE MOBILE RELATED PROJECTS ------------------------------------------------------------*/

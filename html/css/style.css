@@ -36,6 +36,7 @@
 .cf:before {
   content: "";
   display: table;
+  line-height: 0;
 }
 .cf:after {
   clear: both;
@@ -286,8 +287,9 @@ nav {
 }
 .feature li,
 .work-list li {
-  display: block;
-  float: left;
+  display: inline-block;
+  float: top;
+  position: relative;
   width: 300px;
   margin-left: 20px;
   margin-bottom: 40px;
@@ -400,7 +402,7 @@ nav {
 
 /* PROJECT ------------------------------------------------------------*/
 
-#project-title {
+#bolos-title {
   margin-left: 20px;
   font-size: 48px;
   line-height: 1.2em;
@@ -408,33 +410,33 @@ nav {
   margin-bottom: 20px;
   text-shadow: 0px 1px 0 #ffffff;
 }
-#project-gallery {
+#bolos-gallery {
   width: 620px;
   float: left;
   margin-left: 20px;
   margin-bottom: 40px;
 }
-#project-gallery .thumb {
+#bolos-gallery .thumb {
   box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.22);
   line-height: 0em;
   margin-bottom: 20px;
 }
-#project-gallery .thumb img {
+#bolos-gallery .thumb img {
   max-width: 100%;
 }
-#project-info {
+#bolos-info {
   width: 290px;
   float: left;
   margin-left: 20px;
   margin-bottom: 40px;
 }
-#project-info #project-sheet {
-  background: url(../img/project-sheet.png) repeat-x top left;
+#bolos-info #bolos-sheet {
+  background: url(../img/bolos-sheet.png) repeat-x top left;
   padding-top: 20px;
   margin-top: 10px;
   font-size: 14px;
 }
-#project-info #project-sheet strong {
+#bolos-info #bolos-sheet strong {
   font-weight: bold;
 }
 
