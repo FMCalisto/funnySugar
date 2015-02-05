@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-36h
+41h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -339,6 +339,10 @@ Neste dia foi finalizado o Index e o Layout finais do Site. A restante estrutura
 
 Rever a secção dos videos.
 
+- Foi criado um Google+;
+
+- Foi criado um canal do Youtube;
+
 
 ### 04/02/2015
 
@@ -353,7 +357,11 @@ Ver a questão de transformar a páina do ficheiro encomendas.html em várias se
 
 ### 05/02/2015
 
-Foram criados os E-Mails
+- Foram criados os E-Mails;
+
+- Foram confiurados todos os atributos Goole AdSenses, AdWords, Anylitics, etc...
+
+- Foi criado um Twitter;
 
 
 
