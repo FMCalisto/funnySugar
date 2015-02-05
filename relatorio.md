@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-30h
+35h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -335,7 +335,20 @@ Neste dia foi finalizado o Index e o Layout finais do Site. A restante estrutura
 
 ### 03/02/2015
 
+##### Problemas:
+
 Rever a secção dos videos.
+
+
+### 04/02/2015
+
+##### Problemas:
+
+Teve que ser refeito tanto o index.html como o ficheiro designer.html visto ambos os fiheiros terem ficado corrompidos.
+
+##### Ideias:
+
+Ver a questão de transformar a páina do ficheiro encomendas.html em várias secções.
 
 
 
