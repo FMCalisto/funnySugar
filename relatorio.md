@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-41h
+45h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -362,6 +362,10 @@ Ver a questão de transformar a páina do ficheiro encomendas.html em várias se
 - Foram confiurados todos os atributos Goole AdSenses, AdWords, Anylitics, etc...
 
 - Foi criado um Twitter;
+
+- Foi finalizado toda a parte que considero minimamente apresentável, Index, Bolos e secções de Bolos, ficando apenas a faltar a parte das Encomentas;
+
+- Encontrei um Bugg na barra do Menu quando está nas páginas dos projectos;
 
 
 
