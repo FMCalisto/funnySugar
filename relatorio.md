@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-45h
+47h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -366,6 +366,15 @@ Ver a questão de transformar a páina do ficheiro encomendas.html em várias se
 - Foi finalizado toda a parte que considero minimamente apresentável, Index, Bolos e secções de Bolos, ficando apenas a faltar a parte das Encomentas;
 
 - Encontrei um Bugg na barra do Menu quando está nas páginas dos projectos;
+
+
+### 06/02/2015
+
+Neste dia foi terminada seção de "Bolos" e "Projectos" do site da v1.0, ficando apenas por acabar a secção das "Encomendas".
+
+Irei por tanto oferecer às pessoas o site para teste.
+
+- Foi acabado o "Projecto" Roda, CLUMSY NINJA e Doce Apple;
 
 
 
