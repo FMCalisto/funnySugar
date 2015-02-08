@@ -123,7 +123,7 @@ jQuery(document).ready(function($) {
 	$("<option />", {
 		"selected": "selected",
 		"value"   : "",
-		"text"    : "Navigation"
+		"text"    : "Ir para"
 	}).appendTo("#combo-holder select");
 	
 	// Populate dropdown with menu items
