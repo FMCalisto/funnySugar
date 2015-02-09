@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
 	$("#sent-form-msg").hide();
 	
 	// on submit...
-	$("#contactForm #submit").click(function() {
+	$("#contactform #submit").click(function() {
 		$("#error").hide();
 		
 		//required:
@@ -66,7 +66,7 @@ jQuery(document).ready(function($){
 	// on success...
 	 function success(){
 	 	$("#sent-form-msg").fadeIn();
-	 	$("#contactForm").fadeOut();
+	 	$("#contactform").fadeOut();
 	 }
 	
     return false;

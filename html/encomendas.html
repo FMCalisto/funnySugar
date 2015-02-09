@@ -595,7 +595,7 @@
 
 									<a
 
-										id = "formulario"
+										id = "contactform"
 										href = "encomendas.html"
 
 									>
@@ -669,17 +669,16 @@
 			class = "cf"
 
 		>
-
+			
 			<!--
 
 				page-content
 
 			-->
-
+			
 			<div
 
 				class = "page-content"
-				align = "center"
 
 			>
 				
@@ -687,33 +686,382 @@
 
 					entry-content
 
-				-->
-
+				-->	
+	        	
 	        	<div
 
 	        		class = "entry-content cf"
+	        		id = "contactform"
 
 	        	>
-		
-					<img
+	        		
+	        		<!--
 
-						src = "img/work.jpg"
-						alt = "Em Construção"
-						style = "width: 75%; height: 75%"
+	        			GOOGLE MAPS
+
+	        		-->
+
+					<script
+
+						type = "text/javascript"
+						src = "https://maps.google.com/maps/api/js?sensor=true"
 
 					>
 
+					</script>
+
+					<!--
+
+						MAP COORDS
+
+						(38.714615, -9.124348)
+
+					-->
+					
+					<script
+
+						type = "text/javascript"
+
+					>
+
+						function initialize() {
+							var latlng = new google.maps.LatLng(38.714615, -9.124348);
+							var myOptions = {
+							  zoom: 12,
+							  center: latlng,
+							  mapTypeId: google.maps.MapTypeId.ROADMAP
+						};
+						var map = new google.maps.Map(document.getElementById("map_canvas"),
+						    myOptions);
+						var marker = new google.maps.Marker({
+   							position: map.getCenter(),
+    						map: map,
+    						title: 'Clique para zoom'
+  						});
+  						google.maps.event.addListener(map, 'center_changed', function() {
+    					// 3 seconds after the center of the map has changed, pan back to the
+    					// marker.
+    					window.setTimeout(function() {
+      						map.panTo(marker.getPosition());
+   	 						}, 3000);
+  						});
+
+  						google.maps.event.addListener(marker, 'click', function() {
+   							map.setZoom(18);
+    						map.setCenter(marker.getPosition());
+  							});
+						}
+						google.maps.event.addDomListener(window, 'load', initialize);
+
+					</script>
+					
+					<h2
+
+						class = "heading"
+
+					>
+
+						Localização
+
+					</h2>
+					
+					<div
+
+						id = "map_canvas"
+
+					>
+
+					</div>
+
+					<p>
+
+						Estamos próximos do
+
+						<a
+
+							href = "http://www.patrimoniocultural.pt/pt/museus-e-monumentos/dgpc/m/panteao-nacional/"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Panteão Nacional
+
+							</strong>
+
+						</a>
+
+						, encontramo-nos na zona histórica de Santa Apolónia em Lisboa mais especificamente na Travessa do Paraíso.
+
+					</p>
+
+					<h4>
+
+						Estacionamento
+
+					</h4>
+
+					<p>
+
+						Pode estacionar tanto na Rua do Paraíso como no Campo Santa Clara de fácil acesso. Estamos próximos da
+
+						<a
+
+							href = "http://www.cm-lisboa.pt/municipio/juntas-de-freguesia/freguesia-de-sao-vicente"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Junta de Freguesia de São Vicente – Polo de São Vicente de Fora
+
+							</strong>
+
+						</a>
+
+						e do
+
+						<a
+
+							href = "http://www.fazfigura.com/"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Restaurante Faz Figura
+
+							</strong>
+
+						</a>
+
+						, famoso destino da cidade.
+
+					</p>
+
+					<h4>
+
+						Transportes Públicos
+
+					</h4>
+
+					<p>
+
+						Para chegar até aqui via transportes públicos, estamos próximos das estações de
+
+						<a
+
+							href = "http://www.metrolisboa.pt/informacao/planear-a-viagem/diagrama-e-mapa-de-rede/santa-apolonia/"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Metro
+
+							</strong>
+
+						</a>
+
+						e
+
+						<a
+
+							href = "https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/lisboa-santa-apolonia"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Comboios
+
+							</strong>
+
+						</a>
+
+						de Santa Apolónia.
+
+					</p>
+
+					<p>
+
+						No entanto a melhor alternativa será mesmo apanhar os
+
+						<a
+
+							href = "http://www.carris.pt/"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								Autocarros da Carris
+
+							</strong>
+
+						</a>
+
+						<a
+
+							href = "http://www.carris.pt/pt/autocarro/712/ascendente"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								712
+
+							</strong>
+
+						</a>
+
+						e
+
+						<a
+
+							href = "http://www.carris.pt/pt/autocarro/734/ascendente/"
+							target = "_blank"
+
+						>
+
+							<strong>
+
+								734
+
+							</strong>
+
+						</a>
+
+						que passam mesmo na Rua do Paraíso.
+
+					</p>
+
+					<p>
+
+						Aguardamos pela sua visita.
+
+					</p>
+					
+					<!--
+
+						Start google map
+
+					-->
+					
+					<script>
+
+						initialize();
+
+					</script>
+					
+					<!--
+
+						ENDS GOOGLE MAPS
+
+					-->
+					
+					
+					 <div
+
+					 	class = "block-divider"
+
+					 >
+
+					 </div>
+					 
+					<h2
+
+						class = "heading"
+
+					>
+
+						Formulário de Encomenda
+
+					</h2>
+
+					<!--
+
+						form
+
+					-->
+				
+					<form
+
+						id = "contactform"
+						action = "#"
+						method = "post"
+					>
+						
+						<fieldset>
+														
+							<p>
+
+								<label
+
+									for = "name"
+
+								>
+
+									Nome
+
+								</label>
+								
+								<input
+
+									name = "name"
+									id = "name"
+									type = "text"
+									class = "form-poshytip"
+									title = "Digite seu nome completo"
+
+								/>
+							
+							</p>
+						
+						<p>
+							<label for="email" >Email</label>
+							<input name="email"  id="email" type="text" class="form-poshytip" title="Enter your email address" />
+						</p>
+						
+						<p>
+							<label for="web">Website</label>
+							<input name="web"  id="web" type="text" class="form-poshytip" title="Enter your website" />
+						</p>
+						
+						<p>
+							<label for="comments">Message</label>
+							<textarea  name="comments"  id="comments" rows="5" cols="20" class="form-poshytip" title="Enter your comments"></textarea>
+						</p>
+						
+						<!-- send mail configuration -->
+						<input type="hidden" value="your@email.com" name="to" id="to" />
+						<input type="hidden" value="ENter the subject here" name="subject" id="subject" />
+						<input type="hidden" value="send-mail.php" name="sendMailUrl" id="sendMailUrl" />
+						<!-- ENDS send mail configuration -->
+						
+						<p><input type="button" value="Send" name="submit" id="submit" /> <span id="error" class="warning">Message</span></p>
+						</fieldset>
+					
+					</form>
+				<p id="sent-form-msg" class="success">Form data sent. Thanks for your comments.</p>
+				<!-- ENDS form -->
+				
+				
+										
 				</div>
+				<!-- ENDS entry-content -->
 
-			</div>
-
+			</div><!-- ENDS page-content -->
+						
 		</div>
-
-		<!--
-
-			ENDS MAIN
-
-		-->
+		<!-- ENDS MAIN -->
 		
 		<footer>
 			
