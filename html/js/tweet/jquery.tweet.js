@@ -2,7 +2,7 @@
 
   $.fn.tweet = function(o){
     var s = $.extend({
-      username: ["funnysugarbymar"],                // [string]   required, unless you want to display our tweets. :) it can be an array, just do ["username1","username2","etc"]
+      username: ["@funnysugarbymar"],                // [string]   required, unless you want to display our tweets. :) it can be an array, just do ["username1","username2","etc"]
       list: null,                               // [string]   optional name of list belonging to username
       favorites: false,                         // [boolean]  display the user's favorites instead of his tweets
       avatar_size: null,                        // [integer]  height and width of avatar if displayed (48px max)
