@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
 	$("#sent-form-msg").hide();
 	
 	// on submit...
-	$("#contactform #submit").click(function() {
+	$("#formulario #submit").click(function() {
 		$("#error").hide();
 		
 		//required:
@@ -13,23 +13,49 @@ jQuery(document).ready(function($){
 		//name
 		var name = $("input#name").val();
 		if(name == ""){
-			$("#error").fadeIn().text("Name required.");
+			$("#error").fadeIn().text("Nome requirido");
 			$("input#name").focus();
+			return false;
+		}
+
+		//phone
+		var phone = $("input#phone").val();
+		if(phone == ""){
+			$("#error").fadeIn().text("Telefone requirido");
+			$("input#phone").focus();
 			return false;
 		}
 		
 		// email
 		var email = $("input#email").val();
 		if(email == ""){
-			$("#error").fadeIn().text("Email required");
+			$("#error").fadeIn().text("E-Mail requirido");
 			$("input#email").focus();
 			return false;
 		}
+
+		//occasion
+		var occasion = $("input#occasion").val();
+
+		//theme
+		var theme = $("input#theme").val();
+
+		//people
+		var people = $("input#people").val();
+
+		//colors
+		var colors = $("input#colors").val();
+
+		//pasta
+		var pasta = $("input#pasta").val();
+
+		//filling
+		var filling = $("input#filling").val();
 		
 		// web
 		var web = $("input#web").val();
 		if(web == ""){
-			$("#error").fadeIn().text("Web required");
+			$("#error").fadeIn().text("Web requirido");
 			$("input#web").focus();
 			return false;
 		}
@@ -47,12 +73,19 @@ jQuery(document).ready(function($){
 		
 		// data string
 		var dataString = 'name='+ name
-						+ '&email=' + email        
+						+ '&phone=' + phone
+						+ '&email=' + email
+						+ '&occasion=' + occasion
+						+ '&theme=' + theme
+						+ '&people=' + people
+						+ '&colors=' + colors
+						+ '&pasta=' + pasta
+						+ '&filling=' + filling        
 						+ '&web=' + web
 						+ '&comments=' + comments
 						+ '&to=' + to
 						+ '&from=' + from
-						+ '&subject=' + subject;						         
+						+ '&subject=' + subject;
 		// ajax
 		$.ajax({
 			type:"POST",
@@ -66,7 +99,7 @@ jQuery(document).ready(function($){
 	// on success...
 	 function success(){
 	 	$("#sent-form-msg").fadeIn();
-	 	$("#contactform").fadeOut();
+	 	$("#formulario").fadeOut();
 	 }
 	
     return false;

@@ -180,6 +180,15 @@
 
 					</script>
 
+					<script
+
+						type = "tect/javascript"
+						src = "js/form-validation.js"
+
+					>
+
+					</script>
+
 
 	</head>
 
@@ -577,8 +586,7 @@
 
 							<a
 
-								href = "encomendas.html"
-
+								href = "encomendas.html#formulario"
 							>
 
 								<span>
@@ -595,8 +603,8 @@
 
 									<a
 
-										id = "contactform"
-										href = "encomendas.html"
+										id = "formulario"
+										href = "#encomendas.html#formulario"
 
 									>
 
@@ -611,8 +619,7 @@
 									<a
 
 										id = "sabores"
-										href = "encomendas.html"
-
+										href = "encomendas.html#sabores"
 									>
 
 										Sabores
@@ -626,8 +633,7 @@
 									<a
 
 										id = "recomendacoes"
-										href = "encomendas.html"
-
+										href = "encomendas.html#recomendacoes"
 									>
 
 										Recomendações
@@ -691,7 +697,7 @@
 	        	<div
 
 	        		class = "entry-content cf"
-	        		id = "contactform"
+	        		id = "formulario"
 
 	        	>
 	        		
@@ -975,82 +981,373 @@
 					 >
 
 					 </div>
+
+					<a
+
+						name = "formulario"
+
+					>
 					 
-					<h2
+						<h2
 
-						class = "heading"
+							class = "heading"
 
-					>
+						>
 
-						Formulário de Encomenda
+							Formulário de Encomenda
 
-					</h2>
+						</h2>
 
-					<!--
 
-						form
+						<!--
 
-					-->
-				
-					<form
+							form
 
-						id = "contactform"
-						action = "#"
-						method = "post"
-					>
-						
-						<fieldset>
-														
-							<p>
+						-->
+					
+						<form
 
-								<label
+							id = "formulario"
+							action = "#"
+							method = "post"
 
-									for = "name"
+						>
+							
+							<fieldset>
+															
+								<p>
 
-								>
+									<label
 
-									Nome
+										for = "name"
 
-								</label>
+									>
+
+										Nome
+
+									</label>
+									
+									<input
+
+										name = "name"
+										id = "name"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite seu nome completo"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "phone"
+
+									>
+
+										Telefone
+
+									</label>
+									
+									<input
+
+										name = "phone"
+										id = "phone"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite seu telefone"
+
+									/>
+								
+								</p>
+							
+								<p>
+
+									<label
+
+										for = "email"
+
+									>
+
+										Email
+
+									</label>
+									
+									<input
+
+										name = "email"
+										id = "email"
+										type = "text"
+										class = "form-poshytip"
+										title = "Enter your email address"
+
+									/>
+
+								</p>
+
+								<p>
+
+									<label
+
+										for = "occasion"
+
+									>
+
+										Tipo de ocasião
+
+									</label>
+									
+									<input
+
+										name = "occasion"
+										id = "occasion"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite o tipo de ocasião"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "theme"
+
+									>
+
+										Tema escolhido
+
+									</label>
+									
+									<input
+
+										name = "theme"
+										id = "theme"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite o tema escolhido"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "people"
+
+									>
+
+										Número de pessoas
+
+									</label>
+									
+									<input
+
+										name = "people"
+										id = "people"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite o número de pessoas"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "colors"
+
+									>
+
+										Cores preferidas para o bolo
+
+									</label>
+									
+									<input
+
+										name = "colors"
+										id = "colors"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite as cores preferidas para o bolo"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "pasta"
+
+									>
+
+										Massa
+
+									</label>
+									
+									<input
+
+										name = "pasta"
+										id = "pasta"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite a massa"
+
+									/>
+								
+								</p>
+
+								<p>
+
+									<label
+
+										for = "filling"
+
+									>
+
+										Recheio
+
+									</label>
+									
+									<input
+
+										name = "filling"
+										id = "filling"
+										type = "text"
+										class = "form-poshytip"
+										title = "Digite o recheio"
+
+									/>
+								
+								</p>
+							
+								<p>
+									
+									<label
+
+										for = "comments"
+
+									>
+
+										Mensagem
+
+									</label>
+									
+									<textarea 
+
+										name = "comments"
+										id = "comments"
+										rows = "5"
+										cols = "20"
+										class = "form-poshytip"
+										title = "Digite a mensagem"
+
+									>
+
+									</textarea>
+								
+								</p>
+							
+								<!--
+
+									send mail configuration
+
+								-->
+							
+								<input
+
+									type = "hidden"
+									value = "encomendas@funnysugar.com"
+									name = "to"
+									id = "to"
+
+								/>
+
+								<input
+
+									type = "hidden"
+									value = "youremail@funnysugar.com"
+									name = "from"
+									id = "to"
+
+								/>
 								
 								<input
 
-									name = "name"
-									id = "name"
-									type = "text"
-									class = "form-poshytip"
-									title = "Digite seu nome completo"
+									type = "hidden"
+									value = "Digite o assunto"
+									name = "subject"
+									id = "subject"
 
 								/>
+								
+								<input
+
+									type = "hidden"
+									value = "send-mail.php"
+									name = "sendMailUrl"
+									id = "sendMailUrl"
+
+								/>
+								
+								<!--
+
+									ENDS send mail configuration
+
+								-->
+								
+								<p>
+
+									<input
+
+										type = "button"
+										value = "Enviar"
+										name = "submit"
+										id = "submit"
+
+									/>
+
+									<span
+
+										id = "error"
+										class = "warning"
+
+									>
+
+										Mensagem
+
+									</span>
+
+								</p>
 							
-							</p>
+							</fieldset>
 						
-						<p>
-							<label for="email" >Email</label>
-							<input name="email"  id="email" type="text" class="form-poshytip" title="Enter your email address" />
-						</p>
-						
-						<p>
-							<label for="web">Website</label>
-							<input name="web"  id="web" type="text" class="form-poshytip" title="Enter your website" />
-						</p>
-						
-						<p>
-							<label for="comments">Message</label>
-							<textarea  name="comments"  id="comments" rows="5" cols="20" class="form-poshytip" title="Enter your comments"></textarea>
-						</p>
-						
-						<!-- send mail configuration -->
-						<input type="hidden" value="your@email.com" name="to" id="to" />
-						<input type="hidden" value="ENter the subject here" name="subject" id="subject" />
-						<input type="hidden" value="send-mail.php" name="sendMailUrl" id="sendMailUrl" />
-						<!-- ENDS send mail configuration -->
-						
-						<p><input type="button" value="Send" name="submit" id="submit" /> <span id="error" class="warning">Message</span></p>
-						</fieldset>
-					
-					</form>
-				<p id="sent-form-msg" class="success">Form data sent. Thanks for your comments.</p>
+						</form>
+
+					</a>
+
+
+				<p
+
+					id = "sent-form-msg"
+					class = "success"
+
+				>
+
+					Formulário enviado. Obrigado pela sua mensagem.
+
+				</p>
+				
 				<!-- ENDS form -->
 				
 				
@@ -1061,7 +1358,12 @@
 			</div><!-- ENDS page-content -->
 						
 		</div>
-		<!-- ENDS MAIN -->
+		
+		<!--
+
+			ENDS MAIN
+
+		-->
 		
 		<footer>
 			
@@ -1462,8 +1764,7 @@
 									<a
 
 										id = "encomendas"
-										href = "encomendas.html"
-
+										href = "encomendas.html#formulario"
 									>
 
 										Encomendas
@@ -1481,8 +1782,7 @@
 									<a
 
 										id = "contactos"
-										href = "encomendas.html"
-
+										href = "encomendas.html#contactos"
 									>
 
 										Contactos
