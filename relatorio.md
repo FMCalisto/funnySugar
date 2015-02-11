@@ -1,4 +1,4 @@
-# Relatório do Projecto Funny Sugar
+# Relatório do Projecto FUNNY SUGAR
 
 
 ##### autor:
@@ -86,7 +86,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
 
     Querida Mãe,
     
-    Tenho andando a avaliar toda dinâmica em volta da Funny Sugar assim como o seu
+    Tenho andando a avaliar toda dinâmica em volta da FUNNY SUGAR assim como o seu
     Re-Branding e não esquecendo claro todas as questões Técnicas de implementação.
     
     Antes de mais surgem-me algumas ideias e questões de alterações possíveis e
@@ -108,7 +108,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
     
     Minha Sugestão
     
-    Funny Sugar
+    FUNNY SUGAR
     
     
     A minha Tese deve-se pois ao facto de a utilização de CAPS-LOCK
@@ -116,7 +116,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
     Por estas razões e pela sua utilização ter um cariz menos formal sugiro por
     tanto a sua remoção passando a Marca a se chamar:
     
-    Funny Sugar
+    FUNNY SUGAR
     
     (retirando apenas o CAPS-LOCK)
     
@@ -126,7 +126,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
     [Criação de Logotipo]
     
     Acho extremamente importante a criação de um Logotipo como imagem de Marca da
-    Funny Sugar e que a mesma seja feita numa fase anterior ao site para que este
+    FUNNY SUGAR e que a mesma seja feita numa fase anterior ao site para que este
     tenha já o Logotipo na página do Web-Site.
     
     Eu próprio posso tentar tratar disso no entanto, não sendo a minha formação
@@ -140,7 +140,7 @@ relacionado com o projecto. Este mail foi enviado para: maria_galamba@hotmail.co
     Acho bastante importante serem criados meios de comunicação, tais como
     E-Mails e a criação de mais e melhores formas de angariar clientes.
     Falo da ideia de criar contas de Redes Sociais tais como o Twitter e
-    adicionar todos os elementos envolventes na Funny Sugar à gestão dessas
+    adicionar todos os elementos envolventes na FUNNY SUGAR à gestão dessas
     mesmas contas.
     
     Em relação à criação de contas de E-Mail, tenho que avaliar a situação
@@ -206,10 +206,10 @@ efeito, transmissão e comunicação de informação entre os envolventes do Pro
 
 Conversa denominada por:
 
-[Funny Sugar | Website]
+[FUNNY SUGAR | Website]
 
 Foi alterado o Slide Principal com as primeiras imagens provenientes da Página do Facebook da
-Funny Sugar. Nas imagens do slide estão o Bolo da "Mala de Viagens", o Bolo dos "Enchidos" e o
+FUNNY SUGAR. Nas imagens do slide estão o Bolo da "Mala de Viagens", o Bolo dos "Enchidos" e o
 bolo do concurso televisivo da Rosa Fogo.
 
 Estimativa de Horas:
@@ -268,7 +268,7 @@ No total do deste dia foram então dispendidas 1h e 20min.
 
 ### 11/12/2014
 
-Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros programadores interessados em contribuir para o projecto FUNNY Sugar.
+Foram feitas alterações à Gama de Ficheiros "HELP" para melhor ajudar Futuros programadores interessados em contribuir para o projecto FUNNY SUGAR.
 
 
 ### 20/12/2014
@@ -440,7 +440,7 @@ Travessa do Paraiso
 
 1.8) Eliminar a ideia de publicidade (pelo menos para já);
 
-1.9) Apagar "Porquê escolher Funny Sugar";
+1.9) Apagar "Porquê escolher FUNNY SUGAR";
 
 1.10) Apagar a secção "Sobre";
 
