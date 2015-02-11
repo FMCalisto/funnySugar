@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
 	$("#sent-form-msg").hide();
 	
 	// on submit...
-	$("#formulario #submit").click(function() {
+	$("#contactForm #submit").click(function() {
 		$("#error").hide();
 		
 		//required:
@@ -52,14 +52,6 @@ jQuery(document).ready(function($){
 		//filling
 		var filling = $("input#filling").val();
 		
-		// web
-		var web = $("input#web").val();
-		if(web == ""){
-			$("#error").fadeIn().text("Web requirido");
-			$("input#web").focus();
-			return false;
-		}
-		
 		// comments
 		var comments = $("#comments").val();
 		
@@ -72,7 +64,7 @@ jQuery(document).ready(function($){
 		var subject = $("#subject").val();
 		
 		// data string
-		var dataString = 'name='+ name
+		var dataString = 'name=' + name
 						+ '&phone=' + phone
 						+ '&email=' + email
 						+ '&occasion=' + occasion
@@ -80,12 +72,12 @@ jQuery(document).ready(function($){
 						+ '&people=' + people
 						+ '&colors=' + colors
 						+ '&pasta=' + pasta
-						+ '&filling=' + filling        
-						+ '&web=' + web
+						+ '&filling=' + filling
 						+ '&comments=' + comments
 						+ '&to=' + to
 						+ '&from=' + from
 						+ '&subject=' + subject;
+
 		// ajax
 		$.ajax({
 			type:"POST",
@@ -99,7 +91,7 @@ jQuery(document).ready(function($){
 	// on success...
 	 function success(){
 	 	$("#sent-form-msg").fadeIn();
-	 	$("#formulario").fadeOut();
+	 	$("#contactForm").fadeOut();
 	 }
 	
     return false;

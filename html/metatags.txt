@@ -1,0 +1,4 @@
+TAG:
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW, ARCHIVE" />
+
+Copy the above tag in the HEAD section of all your pages

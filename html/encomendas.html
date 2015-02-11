@@ -65,7 +65,7 @@
 			<meta
 
 				name = "description"
-				content = ""
+				content = "FUNNY SUGAR é a marca da Designer Maria Galamba."
 
 			>
 		
@@ -154,6 +154,13 @@
 						type = "image/x-icon"
 
 					>
+
+					<link
+
+						rel = "stylesheet"
+						href = "css/forms.css"
+
+					>
 		
 		
 					<!--
@@ -175,15 +182,6 @@
 					<script
 
 						src = "js/custom.js"
-
-					>
-
-					</script>
-
-					<script
-
-						type = "tect/javascript"
-						src = "js/form-validation.js"
 
 					>
 
@@ -563,12 +561,12 @@
 
 							<a
 
-								href = "designer.html"
+								href = "sobre.html"
 							>
 
 								<span>
 
-									Designer
+									Sobre
 
 								</span>
 
@@ -586,7 +584,7 @@
 
 							<a
 
-								href = "encomendas.html#formulario"
+								href = "encomendas.html"
 							>
 
 								<span>
@@ -603,8 +601,7 @@
 
 									<a
 
-										id = "formulario"
-										href = "#encomendas.html#formulario"
+										href = "encomendas.html#formulario"
 
 									>
 
@@ -618,7 +615,6 @@
 
 									<a
 
-										id = "sabores"
 										href = "encomendas.html#sabores"
 									>
 
@@ -632,7 +628,6 @@
 
 									<a
 
-										id = "recomendacoes"
 										href = "encomendas.html#recomendacoes"
 									>
 
@@ -697,7 +692,7 @@
 	        	<div
 
 	        		class = "entry-content cf"
-	        		id = "formulario"
+	        		id = "localizacao"
 
 	        	>
 	        		
@@ -972,19 +967,26 @@
 						ENDS GOOGLE MAPS
 
 					-->
+
+
+					<!--
+
+						form
+
+					-->					
 					
-					
-					 <div
+					<div
 
-					 	class = "block-divider"
+						class = "block-divider"
+						id = "formulario"
 
-					 >
+					>
 
-					 </div>
+					</div>
 
-					<a
+					<div
 
-						name = "formulario"
+						id = "formulario"
 
 					>
 					 
@@ -997,25 +999,18 @@
 							Formulário de Encomenda
 
 						</h2>
-
-
-						<!--
-
-							form
-
-						-->
 					
 						<form
 
-							id = "formulario"
-							action = "#"
+							id = "contactForm"
+							action = "send-mail.php"
 							method = "post"
 
 						>
 							
 							<fieldset>
 															
-								<p>
+								<div>
 
 									<label
 
@@ -1037,9 +1032,9 @@
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1061,9 +1056,9 @@
 
 									/>
 								
-								</p>
+								</div>
 							
-								<p>
+								<div>
 
 									<label
 
@@ -1085,9 +1080,9 @@
 
 									/>
 
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1109,9 +1104,9 @@
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1133,9 +1128,9 @@
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1157,9 +1152,9 @@
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1181,9 +1176,9 @@
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1202,12 +1197,13 @@
 										type = "text"
 										class = "form-poshytip"
 										title = "Digite a massa"
+										placeholder = "Mais informações para Massas em baixo"
 
 									/>
 								
-								</p>
+								</div>
 
-								<p>
+								<div>
 
 									<label
 
@@ -1226,12 +1222,13 @@
 										type = "text"
 										class = "form-poshytip"
 										title = "Digite o recheio"
+										placeholder = "Mais informações para Recheios em baixo"
 
 									/>
 								
-								</p>
+								</div>
 							
-								<p>
+								<div>
 									
 									<label
 
@@ -1251,12 +1248,13 @@
 										cols = "20"
 										class = "form-poshytip"
 										title = "Digite a mensagem"
+										maxlength = "5000"
 
 									>
 
 									</textarea>
 								
-								</p>
+								</div>
 							
 								<!--
 
@@ -1269,15 +1267,6 @@
 									type = "hidden"
 									value = "encomendas@funnysugar.com"
 									name = "to"
-									id = "to"
-
-								/>
-
-								<input
-
-									type = "hidden"
-									value = "youremail@funnysugar.com"
-									name = "from"
 									id = "to"
 
 								/>
@@ -1334,28 +1323,515 @@
 						
 						</form>
 
-					</a>
+						<p
 
+							id = "sent-form-msg"
+							class = "success"
 
-				<p
+						>
 
-					id = "sent-form-msg"
-					class = "success"
+							Formulário enviado. Obrigado pela sua mensagem.
 
-				>
+						</p>
 
-					Formulário enviado. Obrigado pela sua mensagem.
+					</div>
 
-				</p>
+					<div
+
+	        			class = "entry-content cf"
+	        			id = "contactos"
+
+	        		>
+
+	        			<p>
+
+							<h3
+
+								class = "heading"
+
+							>
+
+								Contactos
+
+							</h3>
+
+						</p>
+
+						<div
+
+							class = "one-half"
+
+						>
+
+							<h4
+
+								class = "heading"
+
+							>
+
+								Morada
+
+							</h4>
+
+							<p>
+
+								Travessa do Paraiso 20
+
+							</p>
+
+							<p>
+
+								1100-399
+
+							</p>
+
+							<p>
+
+								Lisboa
+
+							</p>
+
+						</div>
+
+						<div
+
+							class = "two-half"
+
+						>
+
+							<p>
+
+							<h4
+
+								class = "heading"
+
+							>
+
+								Telemóvel
+
+							</h4>
+
+							<a
+
+								href = "tel:+351968096247"
+
+							>
+
+								+351968096247
+
+							</a>
+
+							</p>
+
+							<p>
+
+								<h4
+
+									class = "heading"
+
+								>
+
+									E-Mail
+
+								</h4>
+
+								<a
+
+									href = "mailto: geral@funnysugar.com?Subject=FUNNY%20SUGAR"
+									target = "_top"
+
+								>
+
+									<font
+
+										size = "2"
+
+									>
+
+										geral@funnysugar.com
+
+									</font>
+
+								</a>
+
+							</p>
+
+						</div>
+
+	        		</div>
 				
-				<!-- ENDS form -->
+					<!-- ENDS form -->
+
+
+					<!--
+
+						taste
+
+					-->
+
+					<div
+
+						class = "block-divider"
+						id = "sabores"
+
+					>
+
+					</div>
+
+					<div
+
+	        			class = "entry-content cf"
+	        			id = "sabores"
+
+	        		>
+
+	        			<p>
+
+							<h2
+
+								class = "heading"
+
+							>
+
+								Sabores
+
+							</h2>
+
+						</p>
+
+						<p>
+
+							<h3
+
+								class = "heading"
+
+							>
+
+								Massas
+
+							</h3>
+
+						</p>
+
+						<p>
+
+	        				As nossas Massas são autenticas sendo compostas pelos mais variados Sabores tais como:
+
+	        				<!--
+
+	        					3 cols
+
+	        				-->
+							
+							<div
+
+								class = "one-half"
+
+							>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Amendoa;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Iogurte;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Chocolate;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Chocolate e Noz;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Canela;
+
+			        				</strong>
+
+			        			</p>
+
+			        		</div>
+
+			        		<div
+
+								class = "one-half-last"
+
+							>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Cenoura e Noz;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Laranja;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Limão;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Noz;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Pão de Ló;
+
+			        				</strong>
+
+			        			</p>
+
+			        		</div>
+
+	        			</p>
+
+	        			<div
+
+	        				class = "cf"
+
+	        			>
+
+	        			</div>
+
+	        			<p>
+
+							<h3
+
+								class = "heading"
+
+							>
+
+								Recheios
+
+							</h3>
+
+						</p>
+
+	        			<p>
+
+	        				Para os recheios pode escolher:
+
+	        				<!--
+
+	        					3 cols
+
+	        				-->
+							
+							<div
+
+								class = "one-half"
+
+							>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Brigadeiro com Chocolate de Leite;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Doce de Leite;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Ferrero Rochê;
+
+			        				</strong>
+
+			        			</p>
+
+		        			</div>
+
+
+
+			        		<div
+
+								class = "one-half-last"
+
+							>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Laranja;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Limão;
+
+			        				</strong>
+
+			        			</p>
+
+		        				<p>
+
+			        				<strong>
+
+			        					- Perna de Pau;
+
+			        				</strong>
+
+			        			</p>
+
+			        		</div>
+
+	        			</p>
+
+	        		</div>
+
+	        		<!--
+
+						END taste
+
+					-->
+
+
+					<!--
+
+						recomendation
+
+					-->
+
+					<div
+
+						class = "block-divider"
+						id = "recomendacoes"
+
+					>
+
+					</div>
+
+					<div
+
+	        			class = "entry-content cf"
+	        			id = "recomendacoes"
+
+	        		>
+
+	        			<p>
+
+							<h2
+
+								class = "heading"
+
+							>
+
+								Recomendações
+
+							</h2>
+
+						</p>
+
+						<p>
+
+	        				O transporte deve ser feito com muito cuidado para não se 
+                            danificarem . Não devem ir ao frigorifico nem ser expostos ao
+                            calor e humidade.
+
+
+	        			</p>
+
+	        		</div>
+
+	        		<!--
+
+						END recomendation
+
+					-->
 				
 				
 										
 				</div>
-				<!-- ENDS entry-content -->
+				
+				<!--
 
-			</div><!-- ENDS page-content -->
+					ENDS entry-content
+
+				-->
+
+			</div>
+
+			<!--
+
+				ENDS page-content
+
+			-->
 						
 		</div>
 		
@@ -1485,7 +1961,7 @@
 
 									>
 
-										DISPICABLE
+										DESPICABLE
 
 									</a>
 
@@ -1799,11 +2275,11 @@
 
 									<a
 
-										href = "designer.html"
+										href = "sobre.html"
 
 									>
 
-										Designer
+										Sobre
 
 									</a>
 
@@ -2052,6 +2528,15 @@
 		<script
 
 			src = "js/loader.js"
+
+		>
+
+		</script>
+
+		<script
+
+			type = "text/javascript"
+			src = "js/form-validation.js"
 
 		>
 

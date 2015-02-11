@@ -29,7 +29,7 @@ Francisco Maria Calisto
 
 (ALTERAR SEMPRE QUE NECESSÁRIO)
 
-48h
+68h
 
 Nota: esta estimativa contém apenas a contabilização de horas efectivas para programação do site
 e respectivas implementações, etc... Não contém o tempo de obtenção de conhecimento, etc... Para
@@ -348,7 +348,7 @@ Rever a secção dos videos.
 
 ##### Problemas:
 
-Teve que ser refeito tanto o index.html como o ficheiro designer.html visto ambos os fiheiros terem ficado corrompidos.
+Teve que ser refeito tanto o index.html como o ficheiro sobre.html visto ambos os fiheiros terem ficado corrompidos.
 
 ##### Ideias:
 
@@ -375,6 +375,31 @@ Neste dia foi terminada seção de "Bolos" e "Projectos" do site da v1.0, ficand
 Irei por tanto oferecer às pessoas o site para teste.
 
 - Foi acabado o "Projecto" Roda, CLUMSY NINJA e Doce Apple;
+
+
+### 09/02/2015
+
+Comecei a fazer a secção do Formulário do site FUNNY SUGAR começando por compreender como implementar e desenvolver a parte do Google Maps e escrevi os textos da Localização.
+
+
+### 10/02/2015
+
+Implementei toda a parte das caixas dos formuçários e toda a comunicação entre a plataforma do site e o back-end dos E-Mails.
+
+Acabei por ter alguns precalços pelo caminho e retirou algum tempo esta parte.
+
+Estive a configurar e a desenvolver toda parte dos mecanismos de SEO, pesquisa Google e oogle Anylitics.
+
+
+### 11/02/2015
+
+Acabei as partes finais do Formulário e toda a informação de que faltava e ficou tudo a funcionar perfeitamente.
+
+Configurei as contas de E-Mails e comprei mais cota para as mesmas.
+
+Todos os E-Mails passaram a redireccionar para as contas pessoais de cada um consuante a secção do E-Mail.
+
+Por fim o site encontra-se completo no dia de hoje e às 07:47 (estando de directa) tendo sido finalizadas toda a informação que falatava.
 
 
 
