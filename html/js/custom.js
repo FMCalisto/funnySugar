@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
 	
 	$("#tweets-bar").tweet({
         count: 3,
-        username: "funnysugar"
+        username: "funnysugarbymar"
     });
     
     
@@ -53,10 +53,10 @@ jQuery(document).ready(function($) {
 	//##########################################
 	
 	$(".sf-menu").superfish({ 
-        animation: {height:'show'},   // slide-down effect without fade-in 
-        delay:     800 ,              // 1.2 second delay on mouseout 
+        animation: {height:'show'},    // slide-down effect without fade-in
+        delay:     1200 ,              // 1.8 second delay on mouseout
         autoArrows:  false,
-        speed: 1000
+        speed: 800					   // 1.2 second delay on mouseout speedup
     });
     
     
@@ -65,11 +65,11 @@ jQuery(document).ready(function($) {
 	//##########################################
 	
 	$('#slider').nivoSlider({
-		effect: 'random', // Specify sets like: 'fold,fade,sliceDown'
-		animSpeed: 500, // Slide transition speed
-        pauseTime: 30000, // How long each slide will show
-        startSlide: 0, // Set starting Slide (0 index)
-        controlNav: true // 1,2,3... navigation
+		effect: 'random', 			   // Specify sets like: 'fold,fade,sliceDown'
+		animSpeed: 500, 			   // Slide transition speed
+        pauseTime: 30000, 			   // How long each slide will show
+        startSlide: 0, 				   // Set starting Slide (0 index)
+        controlNav: true 			   // 1,2,3... navigation
 	});
 	
 	
