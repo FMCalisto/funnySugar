@@ -199,6 +199,32 @@
 
 					</script>
 
+					<script
+
+						src = "//js.pusher.com/2.2/pusher.min.js"
+
+					>
+
+					</script>
+					  
+					<script>
+
+						// Enable pusher logging - don't include this in production
+						Pusher.log = function(message) {
+							if (window.console && window.console.log) {
+								window.console.log(message);
+							}
+						};
+
+						var pusher = new Pusher('036995a75182482f2b6d');
+						var channel = pusher.subscribe('test_channel');
+						
+						channel.bind('my_event', function(data) {
+							alert(data.message);
+						});
+
+					</script>
+
 
 	</head>
 
